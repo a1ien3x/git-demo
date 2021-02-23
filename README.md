@@ -1,3 +1,3 @@
 # Frank Ocean's Channel
 
-[lyrics]
+[lyrics-shmyrics]
